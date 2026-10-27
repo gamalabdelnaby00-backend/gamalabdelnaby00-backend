@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Gamal Abdelnaby 👋
 
-<!--
-**gamalabdelnaby00-backend/gamalabdelnaby00-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Back-End .NET Developer
 
-Here are some ideas to get you started:
+I build backend applications and RESTful APIs using C# and ASP.NET Core.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Language:** C#
+- **Backend:** ASP.NET Core Web API
+- **Database:** SQL Server
+- **ORM:** Entity Framework Core
+- **Tools:** Git, GitHub, Visual Studio, Swagger
+
+## 🎯 Currently Focused On
+
+- Building RESTful APIs
+- Database design and optimization
+- Authentication and authorization
+- Clean, maintainable backend architecture
+
+## 📌 Featured Projects
+
+Coming soon — I'm working on backend projects to showcase my skills.
+
+## 🤝 Connect With Me
+
+- GitHub: [@gamalabdelnaby00-backend](https://github.com/gamalabdelnaby00-backend)
+- LinkedIn: Add your LinkedIn profile URL here
