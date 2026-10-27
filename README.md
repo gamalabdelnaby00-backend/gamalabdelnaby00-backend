@@ -26,4 +26,4 @@ Coming soon — I'm working on backend projects to showcase my skills.
 ## 🤝 Connect With Me
 
 - GitHub: [@gamalabdelnaby00-backend](https://github.com/gamalabdelnaby00-backend)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/gamal-abdelnaby-026b04381)
